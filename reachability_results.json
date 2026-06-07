@@ -1,0 +1,43 @@
+[
+  {
+    "gates": 256,
+    "field_residual": 10.167275996765081,
+    "range_residual": 10.143827230279392,
+    "realized_residual": 10.167275996765081
+  },
+  {
+    "gates": 512,
+    "seconds": 351.5,
+    "field_residual": 9.192215188813655,
+    "range_residual": 8.637250208263099,
+    "realized_residual": 9.192215188813655
+  },
+  {
+    "gates": 1024,
+    "seconds": 354.3,
+    "field_residual": 4.241090915948429,
+    "range_residual": 4.108649144439655,
+    "realized_residual": 4.241090915948429
+  },
+  {
+    "gates": 2000,
+    "seconds": 352.9,
+    "field_residual": 4.899874186755971,
+    "range_residual": 5.3518219244500544,
+    "realized_residual": 4.899874186755971
+  },
+  {
+    "gates": 3500,
+    "seconds": 353.8,
+    "field_residual": 3.655417693796221,
+    "range_residual": 3.35725907665845,
+    "realized_residual": 3.655417693796221
+  },
+  {
+    "gates": 5000,
+    "seconds": 353.1,
+    "field_residual": 4.434005970427008,
+    "range_residual": 4.129780459178301,
+    "realized_residual": 4.434005970427008
+  }
+]
